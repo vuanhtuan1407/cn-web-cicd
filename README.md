@@ -1,1 +1,1 @@
-# cn-web-cicd
+## Example project
